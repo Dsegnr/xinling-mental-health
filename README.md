@@ -2,7 +2,7 @@
 
 **中国国际大学生创新大赛（2026）** 参赛作品 · 高教主赛道 / 本科生创意组 · 人工智能+
 
-![心聆 LOGO](logo_assets/心聆LOGO.png)
+<img src="https://cdn.jsdelivr.net/gh/Dsegnr/xinling-mental-health@main/logo_assets/%E5%BF%83%E8%81%86LOGO.png" width="160" alt="心聆 LOGO">
 
 ## 是什么
 
